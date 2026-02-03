@@ -1,4 +1,6 @@
 # 🚧 Lost in the Grid — Animated 404 Page
+ <img width="1898" height="983" alt="Screenshot 2026-02-04 000839" src="https://github.com/user-attachments/assets/f4f1c6dc-7a7b-42af-8dfa-a868e8459fb8" />
+
 
 A **fully animated, cyberpunk-inspired 404 error page** built using **HTML, Tailwind CSS, and pure CSS animations**.  
 This project turns a dead end into a smooth, user-friendly experience with glitch effects, neon UI, scanlines, and subtle micro-interactions — all in a **single HTML file**.
